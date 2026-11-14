@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_Name,Product_Name,Category,Quantity,Unit_Price,Region
+1,1/5/2025,Aman,Laptop,Electronics,2,45000,North
+2,1/10/2025,Riya,Mobile,Electronics,3,15000,South
+3,2/2/2025,Aman,Chair,Furniture,4,2500,North
+4,2/15/2025,Neha,Table,Furniture,2,5000,East
+5,3/5/2025,Riya,Laptop,Electronics,1,45000,South
+6,3/12/2025,Rahul,Mobile,Electronics,2,15000,West
+7,4/1/2025,Neha,Chair,Furniture,5,2500,East
+8,4/10/2025,Aman,Mobile,Electronics,1,15000,North
+9,5/5/2025,Rahul,Table,Furniture,3,5000,West
+10,5/15/2025,Riya,Chair,Furniture,2,2500,South
